@@ -1,0 +1,10 @@
+.ideas-container {
+  display: flex;
+  justify-content: center;
+  padding: 32px 0;
+}
+.ideas-container .idea {
+  width: 80%;
+}
+
+/*# sourceMappingURL=list-ideas.component.css.map */
